@@ -1,0 +1,48 @@
+.logo {
+    display: block;
+    width: 150px;
+    margin-left: 20px
+}
+
+.sign-in {
+    margin-left: 20px;
+    margin-top: 0px
+}
+
+.btn {
+    margin-left: 270px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 32px;
+    padding-right: 32px;
+    background: blue;
+    border: none;
+    color: white;
+    margin-right: 30px
+}
+
+.input {
+    margin-left: 20px;
+    width: 340px;
+    border-right: white;
+    border-left: white;
+    border-top: white;
+    border-bottom-width: 1px;
+    
+}
+
+.create {
+    margin-left: 20px;
+    margin-top: 25px
+}
+
+.qstn {
+    width: 20px;
+}
+
+.key {
+    width: 15px;
+    margin-left: 20px;
+    margin-top: 30px
+}

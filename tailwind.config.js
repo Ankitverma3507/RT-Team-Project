@@ -51,6 +51,10 @@ module.exports = {
             "0% , 100%" :{ transform : 'scale(1)'
             },
             "50%": {transform: "scale(2)"},
+          },
+          RtL:{
+            "0%":{transform:'translateX(110%)'},
+            "100%":{transform:'translate(0%)'}
           }
           
         },
@@ -61,6 +65,8 @@ module.exports = {
           'ping' : 'ping 5s infinite',
           'wiggle' : 'wiggle 2s ease-in-out infinite',
           'beat' : 'beat 2s ease-in-out infinite',
+          'RtL': 'RtL 2.5s ease-in-out 7s',
+          'RtL2': 'RtL 1s ease-in-out 7s'
           
         }
 
@@ -68,6 +74,6 @@ module.exports = {
     },
   },
   plugins: [
-    require('tailwind-scrollbar')({ nocompatible: true }),
+    require('tailwind-scrollbar')({ nocompatible: true })
   ],
 }

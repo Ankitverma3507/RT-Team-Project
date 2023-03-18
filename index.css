@@ -1,0 +1,56 @@
+html, body{
+    text-align: center;
+    font-family: sans-serif;
+} 
+.first {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: orange;
+    margin: 0px;
+}
+ .second {
+     color: white;
+     background: black;
+     padding-top: 2px;
+     padding-bottom: 15px;
+ }
+ .input {
+     background-color: white;
+     border: 0px;
+     font-family: sans-serif;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     width: 300px;
+     padding-left: 10px;
+}
+.policy{
+    color: black;
+}
+.subscribe {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: whitesmoke;
+    background-color: gray;
+    border: 0px;
+}
+.link1 {
+    color: white;
+    text-decoration: none;
+}
+.hotline {
+    margin-top: 20px;
+    background: black;
+    color: white;
+    border-bottom-color: whitesmoke;
+    width: 200px
+}
+.container {
+    color: gainsboro;
+}
+.privacy {
+    color: gainsboro;
+}

@@ -65,7 +65,7 @@ module.exports = {
           'ping' : 'ping 5s infinite',
           'wiggle' : 'wiggle 2s ease-in-out infinite',
           'beat' : 'beat 2s ease-in-out infinite',
-          'RtL': 'RtL 2.5s ease-in-out 6s',
+          'RtL': 'RtL 2.5s ease-in-out 2.3s',
           
         }
 
